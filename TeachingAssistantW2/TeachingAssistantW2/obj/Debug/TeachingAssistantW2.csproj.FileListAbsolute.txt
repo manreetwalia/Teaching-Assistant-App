@@ -1,0 +1,10 @@
+C:\Users\manre\source\repos\TeachingAssistantW2\TeachingAssistantW2\bin\Debug\TeachingAssistantW2.exe.config
+C:\Users\manre\source\repos\TeachingAssistantW2\TeachingAssistantW2\bin\Debug\TeachingAssistantW2.exe
+C:\Users\manre\source\repos\TeachingAssistantW2\TeachingAssistantW2\bin\Debug\TeachingAssistantW2.pdb
+C:\Users\manre\source\repos\TeachingAssistantW2\TeachingAssistantW2\obj\Debug\TeachingAssistantW2.csprojAssemblyReference.cache
+C:\Users\manre\source\repos\TeachingAssistantW2\TeachingAssistantW2\obj\Debug\TeachingAssistantW2.Form1.resources
+C:\Users\manre\source\repos\TeachingAssistantW2\TeachingAssistantW2\obj\Debug\TeachingAssistantW2.Properties.Resources.resources
+C:\Users\manre\source\repos\TeachingAssistantW2\TeachingAssistantW2\obj\Debug\TeachingAssistantW2.csproj.GenerateResource.cache
+C:\Users\manre\source\repos\TeachingAssistantW2\TeachingAssistantW2\obj\Debug\TeachingAssistantW2.csproj.CoreCompileInputs.cache
+C:\Users\manre\source\repos\TeachingAssistantW2\TeachingAssistantW2\obj\Debug\TeachingAssistantW2.exe
+C:\Users\manre\source\repos\TeachingAssistantW2\TeachingAssistantW2\obj\Debug\TeachingAssistantW2.pdb
